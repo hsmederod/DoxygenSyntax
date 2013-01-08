@@ -49,10 +49,10 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>(^\\[A-Za-z]+)</string>
+			<string>(^\\(code|cond|dot|htmlonly|if|internal|latexonly|link|manonly|msc|rtfonly|verbatim|xmlonly))</string>
 			<key>beginCaptures</key>
 			<dict>
-				<key>1</key>
+				<key>0</key>
 				<dict>
 					<key>name</key>
 					<string>keyword.source.doxygen</string>
