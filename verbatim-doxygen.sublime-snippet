@@ -6,4 +6,5 @@
 ]]></content>
 	<tabTrigger>@verbatim</tabTrigger>
 	<scope>source.doxygen</scope>
+	<description>Verbatim section starting with at</description>
 </snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\code
+	${1:code}
+\endcode
+]]></content>
+	<tabTrigger>\code</tabTrigger>
+	<scope>source.doxygen</scope>
+	<description>Code section starting with backslash</description>
+</snippet>
