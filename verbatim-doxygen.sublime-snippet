@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+@verbatim
+	${1:verbatim}
+@endverbatim
+]]></content>
+	<tabTrigger>@verbatim</tabTrigger>
+	<scope>source.doxygen</scope>
+</snippet>
