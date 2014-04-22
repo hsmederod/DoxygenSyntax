@@ -1,7 +1,7 @@
 DoxygenSyntax
 =============
 
-Sublime Text 2 Doxygen Syntax Highlighter. This is in no way complete. Will add more when I need to.
+Sublime Text Doxygen Syntax Highlighter. This is in no way complete. Will add more when I need to.
 
 Installation
 ============
